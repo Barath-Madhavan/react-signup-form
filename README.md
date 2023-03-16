@@ -6,12 +6,12 @@ This sign-up form uses HTML, CSS, JavaScript, and Formik in React and is fully f
 
 ### Built With
 
-HTML
-CSS
-Java Script
-Formkik
-Sweetalert
-React
+HTML<br>
+CSS<br>
+Java Script<br>
+Formkik<br>
+Sweetalert<br>
+React<br>
 
 #### Formik:
 Formik takes care of the repetitive and annoying stuff—keeping track of values/errors/visited fields, orchestrating validation, and handling submission—so you don't have to. This means you spend less time wiring up state and change handlers
