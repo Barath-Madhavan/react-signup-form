@@ -23,12 +23,12 @@ SweetAlert is a method to customize alerts in your applications, websites and ga
 
 ###### Features
 
-Accepts letters and numbers for first and last name.
-Accepts a valid email address format 
-Checks that email match regex pattern using JavaScript.
-Accepts password with at least  4 characters and maximum 12 characters.
-Checks that password and confirmation passwords match on input and before form is submitted.
-Shows error messages and prevents form submission if any fields are invalid.
+Accepts letters and numbers for first and last name.<br>
+Accepts a valid email address format <br>
+Checks that email match regex pattern using JavaScript.<br>
+Accepts password with at least  4 characters and maximum 12 characters.<br>
+Checks that password and confirmation passwords match on input and before form is submitted.<br>
+Shows error messages and prevents form submission if any fields are invalid.<br>
 
 #######  Desktop Device
 
