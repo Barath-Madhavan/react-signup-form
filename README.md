@@ -31,7 +31,7 @@ Checks that password and confirmation passwords match on input and before form i
 Shows error messages and prevents form submission if any fields are invalid.
 
 #######  Desktop Device
-<table>
-    <a href="https://github.com/Barath-Madhavan/react-signup-form/blob/main/signup/public/images/joanna-kosinska-1_CMoFsPfso-unsplash%20(1).jpg"></a>
-</table>
+
+![Screenshot (672)](https://user-images.githubusercontent.com/93980048/225558681-e1fe63b3-5248-46dc-ac1b-eeef91a1da0e.png)
+
 
