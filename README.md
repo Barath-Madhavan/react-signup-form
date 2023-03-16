@@ -32,6 +32,6 @@ Shows error messages and prevents form submission if any fields are invalid.
 
 #######  Desktop Device
 <table>
-    <tr><td><img src="../images/joanna-kosinska-1_CMoFsPfso-unsplash\ \(1\).jpg"></td></tr>
+    <a href="https://github.com/Barath-Madhavan/react-signup-form/blob/main/signup/public/images/joanna-kosinska-1_CMoFsPfso-unsplash%20(1).jpg"></a>
 </table>
 
